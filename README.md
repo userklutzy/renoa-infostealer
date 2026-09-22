@@ -7,13 +7,13 @@
 
 
 
-🛡️ RENOA Infostealer
+ # 🛡️ RENOA Infostealer
 
 Educational Windows infostealer project for malware analysis, reverse engineering, and security research.
 
 RENOA is a Windows-based security research project created to help security researchers, developers, and students understand how infostealer malware operates, how browser data may be targeted, and how defensive detection techniques can be developed.
 
-⚠️ Disclaimer
+ # ⚠️ Disclaimer
 
 RENOA is intended strictly for educational, research, malware-analysis, and authorized security-testing purposes.
 
@@ -21,7 +21,7 @@ You may edit, modify, improve, extend, study, or create your own versions of thi
 
 However, you must not use this software to access, collect, steal, extract, or transmit passwords, credentials, cookies, tokens, personal information, payment information, or any other sensitive data from systems or accounts without explicit authorization.
 
-✅ Authorized Environments
+ # ✅ Authorized Environments
 
 Use this project only in environments where you have full ownership or explicit permission, including:
 
@@ -59,13 +59,13 @@ Malware-analysis methodologies
 
 The purpose of this project is to help researchers understand how these threats work so they can be analyzed, detected, and defended against.
 
-✏️ Modification
+ # ✏️ Modification
 
 You are free to study, modify, improve, refactor, and extend the project for legitimate research and educational purposes.
 
 Any modified or redistributed version should retain appropriate attribution and the original security disclaimer.
 
-⚖️ No Warranty / No Liability
+# ⚖️ No Warranty / No Liability
 
 This software is provided "AS IS", without warranties of any kind.
 
@@ -75,13 +75,13 @@ You are solely responsible for your actions and for ensuring that your use of th
 
 By using, modifying, or distributing this project, you acknowledge and accept these terms.
 
-🚨 Security Notice
+# 🚨 Security Notice
 
 Do not run this software on computers, accounts, or environments containing data that you do not have permission to access.
 
 For safe research, use an isolated virtual machine or dedicated laboratory environment with test accounts and non-sensitive data.
 
-📚 Intended Audience
+# 📚 Intended Audience
 
 This project may be useful for:
 
@@ -99,11 +99,11 @@ Blue-team researchers
 
 Developers studying malware behavior
 
-📄 License
+# 📄 License
 
 See the LICENSE file for the applicable license terms.
 
-⚠️ Final Notice
+# ⚠️ Final Notice
 
 Educational use only. Authorized environments only.
 
