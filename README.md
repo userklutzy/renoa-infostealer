@@ -1,3 +1,7 @@
+
+![photo.png](https://github.com/user-attachments/assets/xyz-123...)
+
+
 🛡️ RENOA Infostealer
 
 Educational Windows infostealer project for malware analysis, reverse engineering, and security research.
