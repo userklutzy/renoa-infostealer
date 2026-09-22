@@ -1,5 +1,5 @@
 
-![Photo](https://raw.githubusercontent.com/eelo24222-sudo/renoa-infostealer/main/photo.png)
+![Photo](photo.png)
 
 
 🛡️ RENOA Infostealer
