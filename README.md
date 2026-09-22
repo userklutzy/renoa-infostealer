@@ -7,6 +7,11 @@
 # Passwords, doesn't work in some verions of chrome...
 
 
+> **Disclaimer & Educational Purpose**
+> This repository contains a **Proof of Concept (PoC)** developed strictly for educational, research, and detection engineering purposes. It is designed to demonstrate how specific Windows security APIs (DPAPI/CNG) interact with browser storage mechanisms. 
+> 
+> Unauthorized use against systems you do not own or have explicit permission to test is strictly prohibited.
+
 
  # 🛡️ RENOA Infostealer
 
