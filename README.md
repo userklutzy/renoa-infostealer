@@ -1,5 +1,5 @@
 
-![photo.png](https://github.com/user-attachments/assets/xyz-123...)
+![Photo](https://raw.githubusercontent.com/eelo24222-sudo/renoa-infostealer/main/photo.png)
 
 
 🛡️ RENOA Infostealer
