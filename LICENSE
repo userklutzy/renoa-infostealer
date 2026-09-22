@@ -1,0 +1,88 @@
+RENOA SECURITY RESEARCH LICENSE
+Version 1.0
+
+Copyright (c) 2026 RENOA Contributors
+
+PERMITTED USE
+
+Permission is granted to use, study, inspect, modify, improve, and extend this software solely for:
+
+Educational purposes
+
+Malware analysis
+
+Security research
+
+Reverse engineering
+
+Detection engineering
+
+Authorized security testing
+
+Controlled laboratory environments
+
+CTF and academic environments
+
+AUTHORIZATION REQUIREMENT
+
+Any use of this software must be performed only on systems, accounts, devices, or data that you own or have explicit authorization to test.
+
+Users are solely responsible for obtaining all necessary permissions before using the software.
+
+PROHIBITED USE
+
+This software must not be used for:
+
+Unauthorized access to computers or accounts
+
+Credential theft
+
+Password or cookie theft
+
+Theft of authentication tokens
+
+Unauthorized collection of personal or financial information
+
+Data exfiltration
+
+Surveillance without authorization
+
+Deployment against third-party systems without permission
+
+Any activity that violates applicable laws or regulations
+
+MODIFICATION AND REDISTRIBUTION
+
+You may modify, improve, study, or extend this software for permitted purposes.
+
+Redistributed or modified versions must retain:
+
+This license
+
+The original copyright notice
+
+The original security and authorization disclaimers
+
+NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+THE AUTHORS AND CONTRIBUTORS MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING THE SOFTWARE'S ACCURACY, RELIABILITY, SECURITY, OR FITNESS FOR ANY PARTICULAR PURPOSE.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM THE USE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THIS SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, DATA LOSS, SECURITY INCIDENTS, UNAUTHORIZED ACCESS, PRIVACY VIOLATIONS, SYSTEM DAMAGE, OR LEGAL CONSEQUENCES RESULTING FROM MISUSE.
+
+USER RESPONSIBILITY
+
+The user is solely responsible for their use of this software and for complying with all applicable laws, regulations, contracts, and authorization requirements.
+
+The presence of this license or any disclaimer in the repository does not grant permission to access systems or data belonging to another person or organization.
+
+ACCEPTANCE
+
+By using, copying, modifying, or distributing this software, you acknowledge that you have read and understood this license and agree to comply with its terms.
+
+If you do not agree with these terms, you may not use, modify, or distribute this software.
