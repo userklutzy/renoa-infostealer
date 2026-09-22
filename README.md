@@ -2,6 +2,11 @@
 ![Photo](photo.png)
 
 
+
+# Passwords, doesn't work in some verions of chrome...
+
+
+
 🛡️ RENOA Infostealer
 
 Educational Windows infostealer project for malware analysis, reverse engineering, and security research.
