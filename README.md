@@ -4,7 +4,7 @@
 
 
 
-# Passwords, doesn't work in some verions of chrome...
+ Passwords, doesn't work in some verions of chrome...
 
 
 > **Disclaimer & Educational Purpose**
