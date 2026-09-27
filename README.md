@@ -2,6 +2,8 @@
 ![Photo](photos.png)
 ![Photo](images.png)
 
+# Do not test it on a PC, use a virtualbox/sandbox - VM to test it, as you can see in the picture I have tested it on a VM
+
 
 RENOA — Windows Infostealer Research & Detection Lab
 A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
