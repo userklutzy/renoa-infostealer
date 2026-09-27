@@ -11,6 +11,7 @@ A controlled proof-of-concept for studying browser credential storage, Windows D
 ![Type](https://img.shields.io/badge/type-Research%20PoC-red)
 ![Purpose](https://img.shields.io/badge/purpose-Educational-blue)
 ![Environment](https://img.shields.io/badge/environment-Isolated%20VM-orange)
+![Type](https://www.malwarebytes.com/blog/threats/info-stealers)
 
 > ⚠️ **Do not test on a personal PC.** Use an isolated virtual machine or sandbox. The screenshots in this repository were taken inside a VM with test accounts and non-sensitive data.
 
