@@ -3,6 +3,8 @@
 ![Photo](images.png)
 
 
+RENOA — Windows Infostealer Research & Detection Lab
+A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
 
  Passwords, doesn't work in some verions of chrome...
 
