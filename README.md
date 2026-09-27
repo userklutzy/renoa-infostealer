@@ -3,7 +3,7 @@
 ![Caption i fotos](images.png)
 
 
-# RENOA — Windows Infostealer Research & Detection Lab
+# RENOA — Windows Infostealer 
 
 A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
 
