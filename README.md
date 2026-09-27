@@ -1,5 +1,5 @@
 
-![Photo](photo.png)
+![Photo](image.png)
 ![Photo](images.png)
 
 
