@@ -10,10 +10,9 @@ A controlled proof-of-concept for studying browser credential storage, Windows D
 
 ## Video Demo
 
-[Watch the RENOA demo](https://github.com/userklutzy/RENOA/releases/download/v1.0/0928.mp4)
+[Watch the RENOA demo](https://github.com/userklutzy/renoa-infostealer/blob/main/0928.mp4)
 
-⚠️ Educational demo only. Recorded in an isolated VM.
-Do not test on a real PC. Using this to steal data is illegal.
+⚠️ Educational demo only. Recorded in an isolated VM. Do not test on a real PC. Using this to steal data is illegal.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Type](https://img.shields.io/badge/type-Infostealer-red)
