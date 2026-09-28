@@ -2,9 +2,23 @@ RENOA SECURITY RESEARCH LICENSE
 
 Copyright (c) 2026 RENOA Contributors
 
-1. PERMITTED USE
+1. DEFINITIONS
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, study, inspect, analyze, modify, improve, extend, and create derivative works of the Software solely for lawful and authorized purposes, including:
+For purposes of this License:
+
+“Software” means the RENOA software, source code, binaries, documentation, scripts, tools, configurations, examples, and related materials distributed under this License.
+
+“User” means any individual or entity that uses, copies, modifies, studies, distributes, or otherwise interacts with the Software.
+
+“Authorized Use” means use of the Software on systems, devices, accounts, networks, applications, services, or data that the User owns or controls, or for which the User has obtained explicit permission to perform the relevant security activity.
+
+“Unauthorized Use” means any use that is not expressly permitted by the owner or authorized administrator of the relevant system, device, account, network, application, service, or data.
+
+2. GRANT OF PERMISSION
+
+Subject to the terms and conditions of this License, permission is granted to use, copy, study, inspect, analyze, modify, improve, extend, and create derivative works of the Software solely for lawful and Authorized Use.
+
+Permitted purposes include, without limitation:
 
 Educational purposes;
 
@@ -16,125 +30,293 @@ Reverse engineering;
 
 Detection engineering;
 
-Authorized security testing;
+Defensive security development;
+
+Authorized penetration testing;
+
+Authorized vulnerability assessment;
 
 Controlled laboratory environments;
 
-Capture-the-Flag (CTF) competitions; and
+Capture-the-Flag (CTF) competitions;
 
-Academic research.
+Academic research; and
 
-All use of the Software must comply with Section 2 of this License.
+Development and testing of security-related software.
 
-2. AUTHORIZATION REQUIREMENT
+This permission is conditional upon compliance with this License and all applicable laws and authorization requirements.
 
-The Software may be used only against systems, accounts, devices, networks, applications, services, or data that:
+3. AUTHORIZATION REQUIREMENT
 
-are owned or controlled by the user; or
+The Software may be used only against systems, devices, accounts, networks, applications, services, or data that:
 
-the user has explicit authorization to test, inspect, analyze, modify, or access.
+are owned or lawfully controlled by the User; or
 
-The user is solely responsible for obtaining and maintaining all permissions, consents, contracts, and authorizations required for the intended use of the Software.
+the User has explicit authorization to access, inspect, test, analyze, modify, monitor, or otherwise interact with.
 
-Neither the Software, its documentation, nor this License grants permission to access, test, monitor, modify, or collect information from third-party systems or data without authorization.
+The User is solely responsible for obtaining and maintaining all permissions, authorizations, consents, contracts, and approvals required for their intended use.
 
-3. PROHIBITED USE
+The existence of this Software, this License, its documentation, examples, demonstrations, or repository does not constitute authorization to access or test any third-party system or data.
 
-The Software must not be used for:
+4. PROHIBITED USE
 
-Unauthorized access to computers, networks, systems, applications, or accounts;
+The Software must not be used for any unauthorized or unlawful purpose, including but not limited to:
+
+Unauthorized access to computers, systems, networks, applications, devices, or accounts;
 
 Credential theft or credential harvesting;
 
 Password theft;
 
-Cookie or session-token theft;
+Cookie theft;
 
-Theft or unauthorized acquisition of authentication tokens, keys, or secrets;
+Session-token theft;
 
-Unauthorized collection, acquisition, or disclosure of personal, confidential, or financial information;
+Theft or unauthorized acquisition of authentication tokens, API keys, secrets, or credentials;
 
-Data exfiltration without authorization;
+Unauthorized collection or acquisition of personal information;
+
+Unauthorized collection or acquisition of financial information;
 
 Unauthorized surveillance, monitoring, or tracking;
 
-Deployment against third-party systems without explicit authorization;
+Data exfiltration without authorization;
 
-Circumvention of access controls for unauthorized purposes; or
+Unauthorized persistence;
 
-Any activity that violates applicable law, regulation, contractual obligations, or authorization requirements.
+Deployment against third-party infrastructure without explicit authorization;
 
-4. MODIFICATION AND DERIVATIVE WORKS
+Circumvention of access controls for unauthorized purposes;
 
-Permission is granted to modify, improve, extend, and create derivative works of the Software solely for purposes permitted by this License.
+Destruction, alteration, or disruption of systems or data without authorization; or
 
-Any redistributed copy or derivative work must retain:
+Any activity that violates applicable law, regulation, contract, organizational policy, or authorization requirements.
+
+5. USER RESPONSIBILITY
+
+The User is solely responsible for determining whether their intended use of the Software is lawful and authorized.
+
+The User assumes full responsibility for:
+
+Obtaining appropriate authorization;
+
+Using the Software only within the authorized scope;
+
+Complying with applicable laws and regulations;
+
+Complying with contractual obligations;
+
+Protecting confidential information;
+
+Preventing unauthorized access;
+
+Preventing unauthorized data collection or disclosure; and
+
+Any consequences arising from the User's use or misuse of the Software.
+
+The User must not rely on this License as permission to conduct security testing against systems they do not own or have explicit authorization to test.
+
+6. AUTHOR AND CONTRIBUTOR NON-AUTHORIZATION
+
+The authors and contributors of RENOA do not authorize, direct, encourage, endorse, or instruct any User to conduct unauthorized attacks, unauthorized access, credential theft, data theft, surveillance, data exfiltration, or any other unlawful activity.
+
+Any examples, documentation, demonstrations, research material, or technical functionality included with the Software are provided solely for lawful and authorized security research and educational purposes.
+
+A User's decision to use the Software outside the permitted purposes is made independently and without authorization from the authors or contributors.
+
+7. AUTHOR AND CONTRIBUTOR LIABILITY DISCLAIMER
+
+To the maximum extent permitted by applicable law, the authors and contributors shall not be responsible or liable for any unauthorized, unlawful, malicious, abusive, or otherwise improper use of the Software by any User or third party.
+
+The authors and contributors disclaim responsibility for claims, investigations, proceedings, damages, losses, liabilities, penalties, costs, expenses, data loss, security incidents, privacy violations, unauthorized access, system damage, service disruption, or other consequences resulting from or related to:
+
+Misuse of the Software;
+
+Unauthorized use of the Software;
+
+Use of the Software outside its intended security-research purposes;
+
+Unauthorized deployment of the Software;
+
+Modification of the Software;
+
+Combination of the Software with other software or systems;
+
+Distribution of modified versions;
+
+Actions taken by Users or third parties using the Software; or
+
+Violation of applicable laws, contracts, policies, or authorization requirements by a User.
+
+The authors and contributors do not assume responsibility for determining whether a particular use of the Software is authorized or lawful.
+
+That determination is solely the responsibility of the User.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS DISCLAIM ALL WARRANTIES, INCLUDING, WITHOUT LIMITATION:
+
+MERCHANTABILITY;
+
+FITNESS FOR A PARTICULAR PURPOSE;
+
+TITLE;
+
+NON-INFRINGEMENT;
+
+ACCURACY;
+
+RELIABILITY;
+
+AVAILABILITY;
+
+SECURITY;
+
+PERFORMANCE; AND
+
+FREEDOM FROM ERRORS OR VULNERABILITIES.
+
+THE AUTHORS AND CONTRIBUTORS DO NOT WARRANT THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION, ERROR, FAILURE, OR SECURITY VULNERABILITIES.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING OUT OF OR RELATED TO THE USE, MISUSE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION:
+
+DATA LOSS;
+
+SYSTEM DAMAGE;
+
+SECURITY INCIDENTS;
+
+PRIVACY VIOLATIONS;
+
+UNAUTHORIZED ACCESS;
+
+LOSS OF ACCOUNTS OR CREDENTIALS;
+
+SERVICE INTERRUPTION;
+
+BUSINESS INTERRUPTION;
+
+LOSS OF PROFITS;
+
+LOSS OF REVENUE;
+
+LEGAL OR REGULATORY CONSEQUENCES;
+
+INVESTIGATION COSTS;
+
+FINES OR PENALTIES; AND
+
+CLAIMS BY THIRD PARTIES.
+
+THE USER ACKNOWLEDGES THAT THE SOFTWARE MAY BE USED IN SECURITY-RESEARCH ENVIRONMENTS INVOLVING SYSTEMS THAT CAN CONTAIN SENSITIVE, CONFIDENTIAL, OR OTHERWISE PROTECTED INFORMATION.
+
+THE USER ACCEPTS FULL RESPONSIBILITY FOR ENSURING THAT THEIR USE OF THE SOFTWARE IS PROPERLY AUTHORIZED AND CONDUCTED WITHIN AN APPROPRIATE CONTROLLED ENVIRONMENT.
+
+10. INDEMNIFICATION
+
+To the maximum extent permitted by applicable law, the User agrees to defend, indemnify, and hold harmless the authors and contributors from claims, liabilities, damages, losses, costs, and expenses arising from the User's:
+
+Unauthorized use of the Software;
+
+Violation of this License;
+
+Violation of applicable law or regulation;
+
+Violation of third-party rights;
+
+Unauthorized access to systems or data; or
+
+Misuse, modification, distribution, or deployment of the Software.
+
+This provision does not apply to the extent that applicable law prohibits such indemnification.
+
+11. MODIFICATION AND DERIVATIVE WORKS
+
+The User may modify, improve, extend, adapt, and create derivative works from the Software solely for purposes permitted under this License.
+
+Modified and derivative versions must retain:
 
 This License;
 
 The original copyright notice;
 
-The original security and authorization disclaimers; and
+Original security and authorization disclaimers; and
 
-Any attribution notices contained in the original Software that are reasonably applicable.
+Applicable attribution notices contained in the original Software.
 
-Redistribution does not grant recipients any authorization to access third-party systems or data.
+Modification of the Software does not transfer responsibility for the resulting software to the original authors.
 
-5. DISTRIBUTION
+The person or entity creating and distributing a modified version is responsible for that version and its distribution.
 
-The Software, modified versions, and derivative works may be distributed only subject to the terms of this License.
+12. REDISTRIBUTION
 
-A recipient must receive a copy of this License with any distributed copy of the Software or derivative work.
+The Software and derivative works may be redistributed only under the terms of this License.
 
-6. NO WARRANTY
+Any redistribution must include a complete copy of this License.
 
-THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR SECURITY.
+Redistribution must not remove or alter the original copyright notice or security and authorization disclaimers.
 
-THE AUTHORS AND CONTRIBUTORS MAKE NO REPRESENTATIONS OR WARRANTIES THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION, ERROR, OR SECURITY VULNERABILITIES.
+Redistribution does not grant any recipient permission to access third-party systems, devices, accounts, networks, applications, services, or data.
 
-7. LIMITATION OF LIABILITY
+13. THIRD-PARTY SYSTEMS AND DATA
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THE SOFTWARE.
+Nothing in this License grants permission to access, inspect, test, monitor, modify, disrupt, collect, copy, extract, or transfer data from systems or services belonging to another person or organization.
 
-THIS INCLUDES, WITHOUT LIMITATION, DATA LOSS, SECURITY INCIDENTS, PRIVACY VIOLATIONS, SYSTEM DAMAGE, UNAUTHORIZED ACCESS, BUSINESS INTERRUPTION, OR LEGAL CONSEQUENCES RESULTING FROM THE USE OR MISUSE OF THE SOFTWARE.
+Any permission required for such activity must be obtained independently from the relevant owner or authorized administrator.
 
-8. USER RESPONSIBILITY
+14. SECURITY RESEARCH DISCLAIMER
 
-The user is solely responsible for:
+RENOA IS INTENDED AS A SECURITY-RESEARCH AND EDUCATIONAL TOOL.
 
-Obtaining all necessary authorization before using the Software;
+Security research can involve interaction with vulnerable, simulated, intentionally insecure, or controlled systems.
 
-Ensuring that their use complies with applicable laws and regulations;
+Users must conduct such activities only within environments for which they have appropriate authorization.
 
-Complying with contractual and organizational requirements;
+The authors and contributors are not responsible for how a User chooses to deploy or operate the Software outside the scope permitted by this License.
 
-Preventing unauthorized access or use; and
+15. TERMINATION
 
-Accepting all risks associated with the use, modification, or deployment of the Software.
+Any rights granted under this License automatically terminate if the User materially violates the terms of this License.
 
-The presence of this License, the Software, or any disclaimer does not constitute authorization to access systems, accounts, devices, networks, applications, or data belonging to another person or organization.
+Upon termination, the User must cease the activities that are no longer authorized under this License and must comply with any applicable legal obligations concerning copies and distributions of the Software.
 
-9. TERMINATION
+Termination does not eliminate liabilities or obligations that arose before termination.
 
-Any rights granted under this License automatically terminate upon material violation of its terms.
+16. SEVERABILITY
 
-Upon termination, the user must cease all use and distribution of the Software to the extent required by applicable law.
+If any provision of this License is determined to be invalid, unlawful, or unenforceable, that provision shall be enforced to the maximum extent permitted by applicable law, and the remaining provisions shall remain in full force and effect.
 
-Rights properly granted to recipients who have independently complied with this License are not automatically terminated solely because another party violated this License.
+17. NO TRANSFER OF AUTHORITY
 
-10. SEVERABILITY
+Nothing in this License creates an agency relationship, partnership, employment relationship, joint venture, or authorization between the User and the authors or contributors.
 
-If any provision of this License is determined to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect to the maximum extent permitted by law.
+Use of the Software does not imply that a User is acting on behalf of, under the direction of, or with the approval of the authors or contributors.
 
-11. GOVERNING LAW
+18. GOVERNING LAW
 
-This License shall be interpreted and enforced in accordance with applicable law. Nothing in this License is intended to waive or limit any rights or protections that cannot lawfully be waived or limited.
+This License shall be interpreted and enforced in accordance with applicable law.
 
-12. ACCEPTANCE
+Nothing in this License is intended to exclude or limit any liability, right, remedy, or obligation that cannot lawfully be excluded or limited under applicable law.
 
-By using, copying, modifying, creating derivative works from, or distributing the Software, you acknowledge that you have read, understood, and agreed to comply with the terms of this License.
+19. ACCEPTANCE
 
-If you do not agree to these terms, you may not use, modify, create derivative works from, or distribute the Software.
+By using, copying, studying, modifying, creating derivative works from, or distributing the Software, the User acknowledges that they have read, understood, and agreed to the terms of this License.
 
-RENOA Contributors
-Copyright (c) 2026
+If the User does not agree to this License, the User may not use, modify, create derivative works from, or distribute the Software.
+
+20. COPYRIGHT
+
+Copyright (c) 2026 RENOA Contributors
+
+All rights reserved except as expressly granted under this License.
+
+RENOA SECURITY RESEARCH LICENSE
+Copyright (c) 2026 RENOA Contributors
+
+THE SOFTWARE IS PROVIDED “AS IS”. USE ONLY ON SYSTEMS AND DATA FOR WHICH YOU HAVE EXPLICIT AUTHORIZATION. THE USER IS SOLELY RESPONSIBLE FOR THEIR USE OF THE SOFTWARE AND COMPLIANCE WITH APPLICABLE LAW.
