@@ -6,7 +6,11 @@
 
 A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
 
+## Video Demo
 
+![RENOA Demo](demo.gif)
+
+[Watch the full demo (1:15)](https://files.catbox.moe/d2vybm.mp4)
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Type](https://img.shields.io/badge/type-Infostealer-red)
