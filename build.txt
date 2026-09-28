@@ -1,0 +1,2 @@
+pip install pyinstaller
+python -m PyInstaller --onefile --noconsole --name Renoa --clean --uac-admin renoa.py
