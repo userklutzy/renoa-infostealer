@@ -7,12 +7,12 @@
 
 A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
 
+
 ## Video Demo
 
-[![RENOA Demo](0928.png)](https://github.com/USERNAME/RENOA/releases/download/v1.0/0928.mp4)
-
+[Watch the RENOA demo](https://github.com/USERNAME/RENOA/releases/download/v1.0/0928.mp4)
 ⚠️ Educational demo only. Recorded in an isolated VM.
-
+Do not test on a real PC. Using this to steal data is illegal.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Type](https://img.shields.io/badge/type-Infostealer-red)
