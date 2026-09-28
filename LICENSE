@@ -1,56 +1,140 @@
 RENOA SECURITY RESEARCH LICENSE
+
 Copyright (c) 2026 RENOA Contributors
-PERMITTED USE
-Permission is granted to use, study, inspect, modify, improve, and extend this software solely for:
-Educational purposes
-Malware analysis
-Security research
-Reverse engineering
-Detection engineering
-Authorized security testing
-Controlled laboratory environments
-CTF and academic environments
-AUTHORIZATION REQUIREMENT
-Any use of this software must be performed only on systems, accounts, devices, or data that you own or have explicit authorization to test.
-Users are solely responsible for obtaining all necessary permissions before using the software.
-PROHIBITED USE
-This software must not be used for:
-Unauthorized access to computers or accounts
-Credential theft
-Password or cookie theft
-Theft of authentication tokens
-Unauthorized collection of personal or financial information
-Data exfiltration
-Surveillance without authorization
-Deployment against third-party systems without permission
-Any activity that violates applicable laws or regulations
-MODIFICATION AND REDISTRIBUTION
-You may modify, improve, study, or extend this software for permitted purposes.
-Redistributed or modified versions must retain:
-This license
-The original copyright notice
-The original security and authorization disclaimers
 
-NO WARRANTY
+1. PERMITTED USE
 
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, study, inspect, analyze, modify, improve, extend, and create derivative works of the Software solely for lawful and authorized purposes, including:
 
-THE AUTHORS AND CONTRIBUTORS MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING THE SOFTWARE'S ACCURACY, RELIABILITY, SECURITY, OR FITNESS FOR ANY PARTICULAR PURPOSE.
+Educational purposes;
 
-LIMITATION OF LIABILITY
+Malware analysis;
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM THE USE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THIS SOFTWARE.
+Security research;
 
-THIS INCLUDES, WITHOUT LIMITATION, DATA LOSS, SECURITY INCIDENTS, UNAUTHORIZED ACCESS, PRIVACY VIOLATIONS, SYSTEM DAMAGE, OR LEGAL CONSEQUENCES RESULTING FROM MISUSE.
+Reverse engineering;
 
-USER RESPONSIBILITY
+Detection engineering;
 
-The user is solely responsible for their use of this software and for complying with all applicable laws, regulations, contracts, and authorization requirements.
+Authorized security testing;
 
-The presence of this license or any disclaimer in the repository does not grant permission to access systems or data belonging to another person or organization.
+Controlled laboratory environments;
 
-ACCEPTANCE
+Capture-the-Flag (CTF) competitions; and
 
-By using, copying, modifying, or distributing this software, you acknowledge that you have read and understood this license and agree to comply with its terms.
+Academic research.
 
-If you do not agree with these terms, you may not use, modify, or distribute this software.
+All use of the Software must comply with Section 2 of this License.
+
+2. AUTHORIZATION REQUIREMENT
+
+The Software may be used only against systems, accounts, devices, networks, applications, services, or data that:
+
+are owned or controlled by the user; or
+
+the user has explicit authorization to test, inspect, analyze, modify, or access.
+
+The user is solely responsible for obtaining and maintaining all permissions, consents, contracts, and authorizations required for the intended use of the Software.
+
+Neither the Software, its documentation, nor this License grants permission to access, test, monitor, modify, or collect information from third-party systems or data without authorization.
+
+3. PROHIBITED USE
+
+The Software must not be used for:
+
+Unauthorized access to computers, networks, systems, applications, or accounts;
+
+Credential theft or credential harvesting;
+
+Password theft;
+
+Cookie or session-token theft;
+
+Theft or unauthorized acquisition of authentication tokens, keys, or secrets;
+
+Unauthorized collection, acquisition, or disclosure of personal, confidential, or financial information;
+
+Data exfiltration without authorization;
+
+Unauthorized surveillance, monitoring, or tracking;
+
+Deployment against third-party systems without explicit authorization;
+
+Circumvention of access controls for unauthorized purposes; or
+
+Any activity that violates applicable law, regulation, contractual obligations, or authorization requirements.
+
+4. MODIFICATION AND DERIVATIVE WORKS
+
+Permission is granted to modify, improve, extend, and create derivative works of the Software solely for purposes permitted by this License.
+
+Any redistributed copy or derivative work must retain:
+
+This License;
+
+The original copyright notice;
+
+The original security and authorization disclaimers; and
+
+Any attribution notices contained in the original Software that are reasonably applicable.
+
+Redistribution does not grant recipients any authorization to access third-party systems or data.
+
+5. DISTRIBUTION
+
+The Software, modified versions, and derivative works may be distributed only subject to the terms of this License.
+
+A recipient must receive a copy of this License with any distributed copy of the Software or derivative work.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR SECURITY.
+
+THE AUTHORS AND CONTRIBUTORS MAKE NO REPRESENTATIONS OR WARRANTIES THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION, ERROR, OR SECURITY VULNERABILITIES.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, DATA LOSS, SECURITY INCIDENTS, PRIVACY VIOLATIONS, SYSTEM DAMAGE, UNAUTHORIZED ACCESS, BUSINESS INTERRUPTION, OR LEGAL CONSEQUENCES RESULTING FROM THE USE OR MISUSE OF THE SOFTWARE.
+
+8. USER RESPONSIBILITY
+
+The user is solely responsible for:
+
+Obtaining all necessary authorization before using the Software;
+
+Ensuring that their use complies with applicable laws and regulations;
+
+Complying with contractual and organizational requirements;
+
+Preventing unauthorized access or use; and
+
+Accepting all risks associated with the use, modification, or deployment of the Software.
+
+The presence of this License, the Software, or any disclaimer does not constitute authorization to access systems, accounts, devices, networks, applications, or data belonging to another person or organization.
+
+9. TERMINATION
+
+Any rights granted under this License automatically terminate upon material violation of its terms.
+
+Upon termination, the user must cease all use and distribution of the Software to the extent required by applicable law.
+
+Rights properly granted to recipients who have independently complied with this License are not automatically terminated solely because another party violated this License.
+
+10. SEVERABILITY
+
+If any provision of this License is determined to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect to the maximum extent permitted by law.
+
+11. GOVERNING LAW
+
+This License shall be interpreted and enforced in accordance with applicable law. Nothing in this License is intended to waive or limit any rights or protections that cannot lawfully be waived or limited.
+
+12. ACCEPTANCE
+
+By using, copying, modifying, creating derivative works from, or distributing the Software, you acknowledge that you have read, understood, and agreed to comply with the terms of this License.
+
+If you do not agree to these terms, you may not use, modify, create derivative works from, or distribute the Software.
+
+RENOA Contributors
+Copyright (c) 2026
