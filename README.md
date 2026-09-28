@@ -8,11 +8,19 @@
 A controlled proof-of-concept for studying browser credential storage, Windows DPAPI/CNG, and defensive detection techniques.
 
 
+
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Type](https://img.shields.io/badge/type-Infostealer-red)
 ![Purpose](https://img.shields.io/badge/purpose-Educational-blue)
 ![Environment](https://img.shields.io/badge/environment-Isolated%20VM-orange)
 ![Status](https://img.shields.io/badge/status-Research%20PoC-yellow)
+
+
+## Video Demo
+
+[Watch the RENOA demo](https://userklutzy.github.io/renoa-infostealer/)
+
+⚠️ Educational demo only. Recorded in an isolated VM. Do not test on a real PC.
 
 > ⚠️ **Do not test on a personal PC.** Use an isolated virtual machine or sandbox. The screenshots in this repository were taken inside a VM with test accounts and non-sensitive data.
 
