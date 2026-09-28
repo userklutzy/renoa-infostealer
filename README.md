@@ -61,8 +61,8 @@ The purpose of this project is to help researchers understand how these threats 
 
 ## Features
 
-- Browser credential extraction from Chromium-based browsers and Firefox
-- Cookie extraction and Netscape export
+- Browser credential extraction from Chromium-based browsers and Firefox, Edge
+- Cookies extraction and Netscape export
 - Credit card and CVC extraction
 - Autofill and history extraction
 - Discord token grabbing
