@@ -16,7 +16,7 @@ import zipfile
 from datetime import datetime, timedelta
 
 WEBHOOK_URL = "use ur weebhook"
-RENOA_NAME  = "RENOA"
+RENOA_NAME  = "RENOA INF"
 
 try:
     import requests
